@@ -1,0 +1,700 @@
+{
+	"background": {
+		"items": [
+			{
+				"type": "image",
+				"selector": {
+					"name": "background1Selector",
+					"file": "public/assets/items/background/selectors/background1.png",
+					"text": "pendant la récréation"
+				},
+				"item": {
+					"name": "background1",
+					"file": "public/assets/items/background/background1.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background2Selector",
+					"file": "public/assets/items/background/selectors/background2.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background2",
+					"file": "public/assets/items/background/background2.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background3Selector",
+					"file": "public/assets/items/background/selectors/background3.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background3",
+					"file": "public/assets/items/background/background3.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background4Selector",
+					"file": "public/assets/items/background/selectors/background4.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background4",
+					"file": "public/assets/items/background/background4.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background5Selector",
+					"file": "public/assets/items/background/selectors/background5.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background5",
+					"file": "public/assets/items/background/background5.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background6Selector",
+					"file": "public/assets/items/background/selectors/background6.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background6",
+					"file": "public/assets/items/background/background6.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background7Selector",
+					"file": "public/assets/items/background/selectors/background7.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background7",
+					"file": "public/assets/items/background/background7.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background8Selector",
+					"file": "public/assets/items/background/selectors/background8.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background8",
+					"file": "public/assets/items/background/background8.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background9Selector",
+					"file": "public/assets/items/background/selectors/background9.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background9",
+					"file": "public/assets/items/background/background9.png"
+				}
+			},
+			{
+				"type": "image",
+				"selector": {
+					"name": "background10Selector",
+					"file": "public/assets/items/background/selectors/background10.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "background10",
+					"file": "public/assets/items/background/background10.png"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background11Selector",
+					"file": "public/assets/items/background/selectors/background11.png"
+				},
+				"item": {
+					"name": "background11",
+					"color": "#F94144"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background12Selector",
+					"file": "public/assets/items/background/selectors/background12.png"
+				},
+				"item": {
+					"name": "background12",
+					"color": "#F3722C"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background13Selector",
+					"file": "public/assets/items/background/selectors/background13.png"
+				},
+				"item": {
+					"name": "background13",
+					"color": "#F8961E"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background14Selector",
+					"file": "public/assets/items/background/selectors/background14.png"
+				},
+				"item": {
+					"name": "background14",
+					"color": "#F9844A"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background15Selector",
+					"file": "public/assets/items/background/selectors/background15.png"
+				},
+				"item": {
+					"name": "background15",
+					"color": "#F9C74F"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background16Selector",
+					"file": "public/assets/items/background/selectors/background16.png"
+				},
+				"item": {
+					"name": "background16",
+					"color": "#90BE6D"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background17Selector",
+					"file": "public/assets/items/background/selectors/background17.png"
+				},
+				"item": {
+					"name": "background17",
+					"color": "#43AA8B"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background18Selector",
+					"file": "public/assets/items/background/selectors/background18.png"
+				},
+				"item": {
+					"name": "background18",
+					"color": "#4D908E"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background19Selector",
+					"file": "public/assets/items/background/selectors/background19.png"
+				},
+				"item": {
+					"name": "background19",
+					"color": "#577590"
+				}
+			},
+			{
+				"type": "color",
+				"selector": {
+					"name": "background20Selector",
+					"file": "public/assets/items/background/selectors/background20.png"
+				},
+				"item":
+				{
+					"name": "background20",
+					"color": "#277DA1"
+				}
+			}
+		]
+	},
+	"back": {
+		"items": [
+			{
+				"selector": {
+					"name": "back1Selector",
+					"file": "public/assets/items/back/selectors/back1.png",
+					"text": "pendant les vacances"
+				},
+				"item": {
+					"name": "back1",
+					"file": "public/assets/items/back/back1.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back2Selector",
+					"file": "public/assets/items/back/selectors/back2.png",
+					"text": "faisons des grillades"
+				},
+				"item": {
+					"name": "back2",
+					"file": "public/assets/items/back/back2.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back3Selector",
+					"file": "public/assets/items/back/selectors/back3.png",
+					"text": "peuplons les forêts"
+				},
+				"item": {
+					"name": "back3",
+					"file": "public/assets/items/back/back3.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back4Selector",
+					"file": "public/assets/items/back/selectors/back4.png",
+					"text": "on entand un cri non ?"
+				},
+				"item": {
+					"name": "back4",
+					"file": "public/assets/items/back/back4.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back5Selector",
+					"file": "public/assets/items/back/selectors/back5.png",
+					"text": "ça doit être par ici"
+				},
+				"item": {
+					"name": "back5",
+					"file": "public/assets/items/back/back5.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back6Selector",
+					"file": "public/assets/items/back/selectors/back6.png",
+					"text": "la voiture hésitait"
+				},
+				"item": {
+					"name": "back6",
+					"file": "public/assets/items/back/back6.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back7Selector",
+					"file": "public/assets/items/back/selectors/back7.png",
+					"text": "les gouttes tombent"
+				},
+				"item": {
+					"name": "back7",
+					"file": "public/assets/items/back/back7.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back8Selector",
+					"file": "public/assets/items/back/selectors/back8.png",
+					"text": "il faisait violet"
+				},
+				"item": {
+					"name": "back8",
+					"file": "public/assets/items/back/back8.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back9Selector",
+					"file": "public/assets/items/back/selectors/back9.png",
+					"text": "c'était trop court comme ballade"
+				},
+				"item": {
+					"name": "back9",
+					"file": "public/assets/items/back/back9.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back10Selector",
+					"file": "public/assets/items/back/selectors/back10.png",
+					"text": "face aux rochers"
+				},
+				"item": {
+					"name": "back10",
+					"file": "public/assets/items/back/back10.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "back11Selector",
+					"file": "public/assets/items/back/selectors/back11.png",
+					"text": "on glisse vers où ?"
+				},
+				"item": {
+					"name": "back11",
+					"file": "public/assets/items/back/back11.png"
+				}
+			}
+		]
+	},
+	"front": {
+		"items": [
+			{
+				"selector": {
+					"name": "front1Selector",
+					"file": "public/assets/items/front/selectors/front1.png",
+					"text": "le ciel était coloré"
+				},
+				"item": {
+					"name": "front1",
+					"file": "public/assets/items/front/front1.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front2Selector",
+					"file": "public/assets/items/front/selectors/front2.png",
+					"text": "t'as des fourmis dans les jambes ?"
+				},
+				"item": {
+					"name": "front2",
+					"file": "public/assets/items/front/front2.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front3Selector",
+					"file": "public/assets/items/front/selectors/front3.png",
+					"text": "gozilla arrive"
+				},
+				"item": {
+					"name": "front3",
+					"file": "public/assets/items/front/front3.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front4Selector",
+					"file": "public/assets/items/front/selectors/front4.png",
+					"text": "qui a perdu ses lunettes ?"
+				},
+				"item": {
+					"name": "front4",
+					"file": "public/assets/items/front/front4.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front5Selector",
+					"file": "public/assets/items/front/selectors/front5.png",
+					"text": "tiens moi la main"
+				},
+				"item": {
+					"name": "front5",
+					"file": "public/assets/items/front/front5.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front6Selector",
+					"file": "public/assets/items/front/selectors/front6.png",
+					"text": "la maison tordue"
+				},
+				"item": {
+					"name": "front6",
+					"file": "public/assets/items/front/front6.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front7Selector",
+					"file": "public/assets/items/front/selectors/front7.png",
+					"text": "on regardait au loin"
+				},
+				"item": {
+					"name": "front7",
+					"file": "public/assets/items/front/front7.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front8Selector",
+					"file": "public/assets/items/front/selectors/front8.png",
+					"text": "un humain s'étonna"
+				},
+				"item": {
+					"name": "front8",
+					"file": "public/assets/items/front/front8.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front9Selector",
+					"file": "public/assets/items/front/selectors/front9.png",
+					"text": "un ovnis passe dans le ciel"
+				},
+				"item": {
+					"name": "front9",
+					"file": "public/assets/items/front/front9.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front10Selector",
+					"file": "public/assets/items/front/selectors/front10.png",
+					"text": "vite vite, décrochez"
+				},
+				"item": {
+					"name": "front10",
+					"file": "public/assets/items/front/front10.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front11Selector",
+					"file": "public/assets/items/front/selectors/front11.png",
+					"text": "tout est à terre"
+				},
+				"item": {
+					"name": "front11",
+					"file": "public/assets/items/front/front11.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front12Selector",
+					"file": "public/assets/items/front/selectors/front12.png",
+					"text": "Monsieur X dansait"
+				},
+				"item": {
+					"name": "front12",
+					"file": "public/assets/items/front/front12.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front13Selector",
+					"file": "public/assets/items/front/selectors/front13.png",
+					"text": "on avait des tubas"
+				},
+				"item": {
+					"name": "front13",
+					"file": "public/assets/items/front/front13.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front14Selector",
+					"file": "public/assets/items/front/selectors/front14.png",
+					"text": "les fleurs fanent vite"
+				},
+				"item": {
+					"name": "front14",
+					"file": "public/assets/items/front/front14.png"
+				}
+			},
+			{
+				"selector": {
+					"name": "front15Selector",
+					"file": "public/assets/items/front/selectors/front15.png",
+					"text": "la voiture hésitait"
+				},
+				"item": {
+					"name": "front15",
+					"file": "public/assets/items/front/front15.png"
+				}
+			}
+		]
+	},
+	"sound": {
+		"items": [
+			{
+				"selector": {
+					"name": "sound1Selector",
+					"file": "public/assets/items/sound/selectors/sound1.png",
+					"text": "un alien arrive"
+				},
+				"item": {
+					"name": "sound1",
+					"file": "public/assets/items/sound/sound1.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound2Selector",
+					"file": "public/assets/items/sound/selectors/sound2.png",
+					"text": "tout le monde applaudit"
+				},
+				"item": {
+					"name": "sound2",
+					"file": "public/assets/items/sound/sound2.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound3Selector",
+					"file": "public/assets/items/sound/selectors/sound3.png",
+					"text": "il y avait de grosses bulles"
+				},
+				"item": {
+					"name": "sound3",
+					"file": "public/assets/items/sound/sound3.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound4Selector",
+					"file": "public/assets/items/sound/selectors/sound4.png",
+					"text": "on entendait un cheval"
+				},
+				"item": {
+					"name": "sound4",
+					"file": "public/assets/items/sound/sound4.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound5Selector",
+					"file": "public/assets/items/sound/selectors/sound5.png",
+					"text": "c'etait l'heure de manger"
+				},
+				"item": {
+					"name": "sound5",
+					"file": "public/assets/items/sound/sound5.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound6Selector",
+					"file": "public/assets/items/sound/selectors/sound6.png",
+					"text": "j'ai tout déchiré"
+				},
+				"item": {
+					"name": "sound6",
+					"file": "public/assets/items/sound/sound6.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound7Selector",
+					"file": "public/assets/items/sound/selectors/sound7.png",
+					"text": "une main parlait"
+				},
+				"item": {
+					"name": "sound7",
+					"file": "public/assets/items/sound/sound7.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound8Selector",
+					"file": "public/assets/items/sound/selectors/sound8.png",
+					"text": "le temps d'une ballade"
+				},
+				"item": {
+					"name": "sound8",
+					"file": "public/assets/items/sound/sound8.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound9Selector",
+					"file": "public/assets/items/sound/selectors/sound9.png",
+					"text": "au bord de l'ocean"
+				},
+				"item": {
+					"name": "sound9",
+					"file": "public/assets/items/sound/sound9.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound10Selector",
+					"file": "public/assets/items/sound/selectors/sound10.png",
+					"text": "les oiseaux chantaient"
+				},
+				"item": {
+					"name": "sound10",
+					"file": "public/assets/items/sound/sound10.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound11Selector",
+					"file": "public/assets/items/sound/selectors/sound11.png",
+					"text": "en été"
+				},
+				"item": {
+					"name": "sound11",
+					"file": "public/assets/items/sound/sound11.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound12Selector",
+					"file": "public/assets/items/sound/selectors/sound12.png",
+					"text": "pendant la récréation"
+				},
+				"item": {
+					"name": "sound12",
+					"file": "public/assets/items/sound/sound12.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound13Selector",
+					"file": "public/assets/items/sound/selectors/sound13.png",
+					"text": "le telephone sonne"
+				},
+				"item": {
+					"name": "sound13",
+					"file": "public/assets/items/sound/sound13.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound14Selector",
+					"file": "public/assets/items/sound/selectors/sound14.png",
+					"text": "un nouvel immeuble se construit"
+				},
+				"item": {
+					"name": "sound14",
+					"file": "public/assets/items/sound/sound14.mp3"
+				}
+			},
+			{
+				"selector": {
+					"name": "sound15Selector",
+					"file": "public/assets/items/sound/selectors/sound15.png",
+					"text": "face au mistral"
+				},
+				"item": {
+					"name": "sound15",
+					"file": "public/assets/items/sound/sound15.mp3"
+				}
+			}
+		]
+	}
+}
